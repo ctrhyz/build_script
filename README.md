@@ -12,6 +12,7 @@ bash jembod.sh | tee hiya.txt
 Open `jembod.sh` with your preferred IDE or text editor.
 And change according your preference.
 >TZ = Is your Timezone, eg. Asia/Jakarta
+
 >romcuy = Type Your Rom that you want to build. Dont fill with any symbol, Only Alphabet. eg. Afterlife RisingOS LineageOS
 >id_ch = Fill with your Telegram channel id, Add -100 before your id. eg. your channel id is 1234567890, then it will be -1001234567890
 >id_owner = Enter your Telegram id
