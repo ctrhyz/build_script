@@ -1,7 +1,10 @@
 # ROM Build Script (Can Use in Crave)
-## Run Command
+## How to use
++ **Fork This Project to Your Github Account**
++ **Then, Set Your Configuration Here**
 ```
-curl https://raw.githubusercontent.com/ctrhyz/build_script/main/jembod.sh | tee hiya.txt
+wget https://raw.githubusercontent.com/ctrhyz/build_script/main/jembod.sh
+bash jembod.sh | tee hiya.txt
 ```
 
 # Set Configuration

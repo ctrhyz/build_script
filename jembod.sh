@@ -3,12 +3,14 @@
 #Export timezone
 export TZ=Asia/Jakarta
 
-#Export Stuff
+#Export Configuration
 export romcuy=""
-export id_ch=
-export id_zxh=
+export id_ch=""
+export id_owner=""
 export btoken=""
 export logpath=""
+export lmfests=""
+export admfests=""
 
 #Notify with Telegram Function
 stm(){
