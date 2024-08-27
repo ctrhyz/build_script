@@ -98,5 +98,6 @@ stm "*_\=\=\=\=\= Crave Build Finished \=\=\=\=\=_*%0A**>*Date: _$(date "+%A, %d
 echo "================= Done ================="
 stf "*Mana Log nya\?
 Ini Log nya\!
->Where The Log\?
->Here NIGGA\!*" "$id_owner" > /dev/null
+
+Where The Log\?
+Here NIGGA\!*" "$id_owner" > /dev/null
