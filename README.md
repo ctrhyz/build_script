@@ -31,5 +31,5 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **rosemary** **garnet** **X00TD**
 
 >**_botuname_** \
->Fill with your **bot username** without **`@`**
+>Fill with your **bot username** without **`@`** \
 >eg. **zbuild_bot**
