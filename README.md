@@ -12,16 +12,24 @@ bash jembod.sh | tee hiya.txt
 Open `jembod.sh` with your preferred IDE or text editor and change according your preference.
 >**_TZ_** \
 >Is your Timezone \
->eg. Asia/Jakarta
+>eg. **Asia/Jakarta**
 
 >**_romcuy_** \
->Type Your Rom that you want to build. Dont fill with any symbol, Only Alphabet & Number \
+>**Type Your Rom** that you want to build. **Dont fill** with any **symbol**, **Only Alphabet & Number** \
 >eg. **Afterlife RisingOS LineageOS21**
 
->**id_ch** \
->Fill with your Telegram channel id, Add -100 before your id. \
->eg. your channel id is 1234567890, then it will be -1001234567890
+>**_id_ch_** \
+>Fill with your **Telegram channel id**, Add **_-100_** before your id. \
+>eg. your channel id is **1234567890**, then it will be **-1001234567890**
 
->**id_owner** \
->Enter your Telegram id \
->eg. 1234569890
+>**_id_owner_** \
+>Enter your **Telegram id** \
+>eg. **1234569890**
+
+>**_dcdnm_** \
+>Fill with your **device codename** \
+>eg. **rosemary** **garnet** **X00TD**
+
+>**_botuname_** \
+>Fill with your **bot username** without **`@`**
+>eg. **zbuild_bot**
