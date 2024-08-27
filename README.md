@@ -10,7 +10,7 @@ bash jembod.sh | tee hiya.txt
 
 ## Set Configuration
 Open `jembod.sh` with your preferred IDE or text editor and change according your preference.
->**_TZ_** = Is your Timezone
+>**_TZ_** = Is your Timezone \
 >eg. Asia/Jakarta
 >
 >**_romcuy_** = Type Your Rom that you want to build. Dont fill with any symbol, Only Alphabet & Number
