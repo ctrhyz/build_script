@@ -11,6 +11,7 @@ bash jembod.sh | tee hiya.txt
 
 ## Set Configuration
 Open `jembod.sh` with your preferred IDE or text editor and change according your preference.
+#### All here are important
 >**_TZ_** \
 >Is your **Timezone** \
 >eg. **Asia/Jakarta**
