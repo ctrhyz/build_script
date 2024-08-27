@@ -23,7 +23,7 @@ stm(){
     curl -s -X POST https://api.telegram.org/bot$btoken/sendMessage -d chat_id=$cid -d text="$message" -d disable_web_page_preview="True" -d parse_mode="MarkdownV2"
 }
 
-#Send Log with TG
+#Send Log with Telegram
 stf(){
     local caption="$1"
     local cid="$2"
