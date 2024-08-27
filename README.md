@@ -2,7 +2,7 @@
 ## How to use
 + **Fork This Repo**
 + **Then, Setup Your Configuration [Here](https://github.com/ctrhyz/build_script#set-configuration)**
-+ **After that, Run this command below**
++ **After that, Run this command below inside your rom project folder**
 ```
 wget https://raw.githubusercontent.com/yourUsername/build_script/main/jembod.sh
 bash jembod.sh | tee hiya.txt
@@ -15,7 +15,7 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **Asia/Jakarta**
 
 >**_romcuy_** \
->**Type Your Rom** that you want to build. **Dont fill** with any **symbol**, **Only Alphabet & Number** \
+>Type Your **Rom** that you want to build. **Dont fill** with any **symbol**, **Only Alphabet & Number** \
 >eg. **Afterlife RisingOS LineageOS21**
 
 >**_id_ch_** \
@@ -33,3 +33,10 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >**_botuname_** \
 >Fill with your **bot username** without **`@`** \
 >eg. **zbuild_bot**
+
+>**_btoken_** \
+>Fill with your bot token from BotFather
+
+>**_lmfests_** \
+>**GIthub link** to your **_local_manifests_** \
+>eg. **https://github.com/ctrhyz/local_manifests**

@@ -10,7 +10,6 @@ export botuname=""
 export id_ch=""
 export id_owner=""
 export btoken=""
-export logpath=""
 export lmfests=""
 export blmfests=""
 export admfests=""
@@ -28,7 +27,7 @@ stm(){
 stf(){
     local caption="$1"
     local cid="$2"
-    curl -s -L -F document=@"$(echo $logpath)" -F parse_mode="MarkdownV2" -F caption="$caption" -X POST https://api.telegram.org/bot$btoken/sendDocument -F chat_id=$cid
+    curl -s -L -F document=@"$(pwd)/hiya.txt" -F parse_mode="MarkdownV2" -F caption="$caption" -X POST https://api.telegram.org/bot$btoken/sendDocument -F chat_id=$cid
 }
 
 #TG Start
