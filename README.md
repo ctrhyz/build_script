@@ -15,28 +15,44 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **Asia/Jakarta**
 
 >**_romcuy_** \
->Type Your **Rom** that you want to build. **Dont fill** with any **symbol**, **Only Alphabet & Number** \
->eg. **Afterlife RisingOS LineageOS21**
+>Is **rom** name that you want to build. **Dont fill** with any **symbol**, **Only Alphabet & Number** \
+>eg. **`Afterlife` `RisingOS` `LineageOS21`** or whatever
 
 >**_id_ch_** \
->Fill with your **Telegram channel id**, Add **_-100_** before your id. \
+>Is your **Telegram channel id**, Add **_-100_** before your id. \
 >eg. your channel id is **1234567890**, then it will be **-1001234567890**
 
 >**_id_owner_** \
->Enter your **Telegram id** \
+>Is your **Telegram id** \
 >eg. **1234569890**
 
 >**_dcdnm_** \
->Fill with your **device codename** \
->eg. **rosemary** **garnet** **X00TD**
+>Is your **device codename** \
+>eg. **`rosemary`** **`garnet`** **`X00TD`** or whatever
 
 >**_botuname_** \
->Fill with your **bot username** without **`@`** \
+>Is your **bot username** without **`@`** \
 >eg. **zbuild_bot**
 
 >**_btoken_** \
->Fill with your **bot token** from **BotFather**
+>Is your **bot token** from **BotFather**
 
 >**_lmfests_** \
->**GIthub link** to your **_local_manifests_** \
+>Is **Github link** to your **_local_manifests_** \
 >eg. **`https://github.com/ctrhyz/local_manifests`**
+
+>**_blmfests_** \
+>Is **branch** of your **local_manifests** \
+>eg. **`main`** **`testing`** **`master`** or whatever
+
+>**_admfests_** \
+>Is **android_manifest** of **rom source**, can get in docs of rom \
+>eg. **`https://github.com/AfterlifeOS/android_manifest.git`** **`https://github.com/RisingTechOSS/android`**
+
+>**_badmfests_** \
+>Is **branch** of **android_manifest** from **rom source** \
+>eg. **`14`** **`lineage-21`** **`fourteen`** **`udc`** or whatever
+
+>**_jembod_** \
+>Is **command** to **build** rom \
+>eg. **`mka bacon`** **`rise b`** **`goafterlife <device-codename>`** or whatever
