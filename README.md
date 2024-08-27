@@ -3,7 +3,7 @@
 + **Fork This Repo**
 + **Then, Setup Your Configuration [Here](https://github.com/ctrhyz/build_script#set-configuration)**
 + **After that, Run this command below inside your rom project folder**
-```
+```bash
 # Change yourUsername with your github username
 wget https://raw.githubusercontent.com/yourUsername/build_script/main/jembod.sh
 bash jembod.sh | tee hiya.txt
