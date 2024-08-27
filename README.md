@@ -20,8 +20,8 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **`Afterlife` `RisingOS` `LineageOS21`** or whatever
 
 >**_id_ch_** \
->Is your **Telegram channel id**, Add **_-100_** before your id. \
->eg. your channel id is **1234567890**, then it will be **-1001234567890**
+>Is your **Telegram channel id**, Add **_`-100`_** before your id. \
+>eg. your channel id is **`1234567890`**, then it will be **`-1001234567890`**
 
 >**_id_owner_** \
 >Is your **Telegram id** \
