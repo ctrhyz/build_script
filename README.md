@@ -47,7 +47,7 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **`main`** **`testing`** **`master`** or whatever
 
 >**_admfests_** \
->Is **android_manifest** of **rom source**, can get in docs of rom \
+>Is link to **android_manifest** of **rom source**, can get in docs of rom \
 >eg. **`https://github.com/AfterlifeOS/android_manifest.git`** **`https://github.com/RisingTechOSS/android`**
 
 >**_badmfests_** \
