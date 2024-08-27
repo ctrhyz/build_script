@@ -25,7 +25,7 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 
 >**_id_owner_** \
 >Is your **Telegram id** \
->eg. **1234569890**
+>eg. **`1234569890`**
 
 >**_dcdnm_** \
 >Is your **device codename** \
@@ -33,7 +33,7 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 
 >**_botuname_** \
 >Is your **bot username** without **`@`** \
->eg. **zbuild_bot**
+>eg. **`zbuild_bot`**
 
 >**_btoken_** \
 >Is your **bot token** from **BotFather**
