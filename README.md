@@ -35,8 +35,8 @@ Open `jembod.sh` with your preferred IDE or text editor and change according you
 >eg. **zbuild_bot**
 
 >**_btoken_** \
->Fill with your bot token from BotFather
+>Fill with your **bot token** from **BotFather**
 
 >**_lmfests_** \
 >**GIthub link** to your **_local_manifests_** \
->eg. **https://github.com/ctrhyz/local_manifests**
+>eg. **`https://github.com/ctrhyz/local_manifests`**
